@@ -1,2 +1,4 @@
 **/*.exe
 **/*.obj
+config.bat
+node_modules
